@@ -1,7 +1,7 @@
 package org.example;
 
-public class C {
+public class D {
     public static void main(String[] args) {
-        System.out.println("C commit");
+        System.out.println("D commit");
     }
 }
